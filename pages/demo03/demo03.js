@@ -13,7 +13,21 @@ Page({
       height: 174,
       weight: 200
     },
-    isChecked: false
+    isChecked: false,
+    list: [
+      {
+        id: 0,
+        name: "猪八戒"
+      },
+      {
+        id: 1,
+        name: '天蓬元帅'
+      },
+      {
+        id: 2,
+        name: '悟能'
+      }
+    ]
   },
 
  
